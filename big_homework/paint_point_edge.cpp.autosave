@@ -1,0 +1,9 @@
+#include "paint_point_edge.h"
+#include <QPainter>
+#include <QColor>
+void myPainter::paintEvent(QPaintEvent * ev)
+{
+    QPainter painter;
+    
+    for(int )
+}

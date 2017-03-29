@@ -1,0 +1,21 @@
+#ifndef PAINT_POINT_EDGE
+#define PAINT_POINT_EDGE
+#include <QWidget>
+#include <vector>
+#include <iostream>
+using namespace std;
+
+class myPainter:public QWidget
+{
+private:
+    vector<vector<double> > point;
+    vector<vector<int> > edge;
+    vector<double> edge_weight;
+    vector<int> point_weight; 
+protected:
+    void paintEvent(QPaintEvent *);
+    
+};
+
+#endif // PAINT_POINT_EDGE
+

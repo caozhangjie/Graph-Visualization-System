@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>topic_background.jpg</file>
+        <file>topic_button.jpg</file>
+        <file>topic_edit.jpg</file>
+        <file>paper_filter_back.jpg</file>
+        <file>paper_filter_long.jpg</file>
+        <file>paper_filter_rightup.jpg</file>
+        <file>paper_filter_short.jpg</file>
+        <file>paper_filter_shortest.jpg</file>
+        <file>paper_long.jpg</file>
+        <file>paper_more.jpg</file>
+        <file>paper_save.jpg</file>
+        <file>paper_short.jpg</file>
+        <file>topic_back.jpg</file>
+        <file>topic_big.jpg</file>
+        <file>topic_exit.jpg</file>
+        <file>topic_small.jpg</file>
+        <file>close.jpg</file>
+        <file>ok.jpg</file>
+        <file>clear .jpg</file>
+        <file>paper_bac.jpg</file>
+        <file>my_label.png</file>
+        <file>my_label2.png</file>
+        <file>doc_big.jpg</file>
+        <file>doc_small.jpg</file>
+        <file>docnode.jpg</file>
+        <file>morebig.jpg</file>
+        <file>moreforpaperbac.jpg</file>
+        <file>moresmallleft.jpg</file>
+        <file>moresmallright.jpg</file>
+        <file>search_kuang.jpg</file>
+        <file>searchresult.jpg</file>
+        <file>DocumentContent.txt</file>
+        <file>Edges.txt</file>
+        <file>Nodes.txt</file>
+        <file>TopicEdges.txt</file>
+        <file>TopicNodes.txt</file>
+    </qresource>
+</RCC>
